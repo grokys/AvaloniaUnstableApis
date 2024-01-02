@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaUnstableApis", "AvaloniaUnstableApis.csproj", "{784BF176-BE0F-436B-859B-97A758B7502A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784BF176-BE0F-436B-859B-97A758B7502A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784BF176-BE0F-436B-859B-97A758B7502A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784BF176-BE0F-436B-859B-97A758B7502A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784BF176-BE0F-436B-859B-97A758B7502A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7A46D0-F9CA-4DF7-9125-893461C0F314}
+	EndGlobalSection
+EndGlobal
